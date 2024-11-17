@@ -1,0 +1,55 @@
+html{font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    max-width: 800px;
+}
+nav 
+{   display: flex;
+    background-size:  15.5rem; 
+    background-color: #e40e2c;
+    color: rgb(255, 255, 255);
+    height: 6rem;
+    width: 23.5rem;
+    text-align: center;
+  
+
+}
+div.underbild{ font-style: italic;
+font-size: 12px;}
+div.uppdelning{display: flex;
+    max-width: 80%;
+    max-height: 80%;
+align-items: center;
+margin-left: 40px;
+margin-top: 20px;}
+    img {
+        max-width: 100%;
+        height: auto;
+      }
+div.vänster{font-size: 11px;
+text-align:left ;}
+div.höger
+{height: auto;
+max-width: 70%;
+flex: auto;
+margin-left: 20px;
+}
+a:link{color: white;}
+a.a{color: #e40e2c;}
+h2{text-align: center;}
+div.StoraBilder 
+{ display: flex;
+
+
+}
+
+h2.HJBI {color: rgb(255, 255, 255);
+    color:white;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border: 3px solid #e40e2c;
+    background-color: #e40e2c;
+    padding: 10px;
+}
